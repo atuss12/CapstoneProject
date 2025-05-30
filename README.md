@@ -108,9 +108,9 @@ Setelah menganalisis lebih dari 10.000 komentar pengguna media sosial terhadap b
 diperoleh sejumlah temuan penting yang dapat menjadi dasar strategi komunikasi dan pemasaran brand.
 
 ### Distribusi Sentimen Umum
-- **54% komentar bersifat positif**: Pujian terhadap kualitas produk, desain, harga terjangkau, serta semangat mendukung produk dalam negeri.
-- **27% komentar netral**: Informasi biasa, pertanyaan seputar ketersediaan produk, atau respon singkat tanpa emosi.
-- **19% komentar negatif**: Keluhan terkait pelayanan customer service, keterlambatan pengiriman, serta kualitas tidak sesuai ekspektasi.
+- **27% komentar bersifat positif**: Pujian terhadap kualitas produk, desain, harga terjangkau, serta semangat mendukung produk dalam negeri.
+- **19% komentar netral**: Informasi biasa, pertanyaan seputar ketersediaan produk, atau respon singkat tanpa emosi.
+- **54% komentar negatif**: Keluhan terkait pelayanan customer service, keterlambatan pengiriman, serta kualitas tidak sesuai ekspektasi.
 
 ### Insight Per Topik
 **1. Kualitas Produk**  
